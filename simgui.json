@@ -1,0 +1,18 @@
+{
+  "NTProvider": {
+    "types": {
+      "/FMSInfo": "FMSInfo",
+      "/LiveWindow/Ungrouped/DifferentialDrive[1]": "DifferentialDrive",
+      "/LiveWindow/Ungrouped/PWMSparkMax[2]": "Motor Controller",
+      "/Shuffleboard/Drivebase/Tank Drive": "DifferentialDrive",
+      "/Shuffleboard/Elevator/Motor": "Motor Controller"
+    },
+    "windows": {
+      "/Shuffleboard/Drivebase/Tank Drive": {
+        "window": {
+          "visible": true
+        }
+      }
+    }
+  }
+}
